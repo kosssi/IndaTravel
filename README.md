@@ -20,5 +20,11 @@ Todo list
 ---------
 
 - [ ] Faire le visa
-- [ ] Réserver le billet avion pour Leh
+- [ ] Réserver le billet avion pour Leh
 - [ ] Acheter un appareil photo
+
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
