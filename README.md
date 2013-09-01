@@ -19,6 +19,6 @@ Trajet
 Todo list
 ---------
 
-- [ ] Faire le visa
-- [ ] Réserver le billet avion pour Leh
-- [ ] Acheter un appareil photo
+[ ] Faire le visa
+[ ] Réserver le billet avion pour Leh
+[ ] Acheter un appareil photo
