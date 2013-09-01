@@ -15,3 +15,10 @@ Trajet
 * Agra (Départ le 17/10)
 * New Delhi (Départ le 20/10 à 13h15 arrivé à 18h55)
 * Paris
+
+Todo list
+---------
+
+- [ ] Faire le visa
+- [ ] Réserver le billet avion pour Leh
+- [ ] Acheter un appareil photo
